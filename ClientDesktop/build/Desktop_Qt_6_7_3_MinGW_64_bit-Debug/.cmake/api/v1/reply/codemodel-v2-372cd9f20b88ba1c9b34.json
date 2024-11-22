@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-edc075e197934ccec4de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ClientDesktop",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ClientDesktop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ClientDesktop-Debug-db0af9f65ab5b87662ae.json",
+					"name" : "ClientDesktop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ClientDesktop_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ClientDesktop_autogen-Debug-6454c6cb23bae0a3430a.json",
+					"name" : "ClientDesktop_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ClientDesktop_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ClientDesktop_autogen_timestamp_deps-Debug-daf02d7dc5615eb8da1a.json",
+					"name" : "ClientDesktop_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/RemoteDesktop/ClientDesktop/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "D:/RemoteDesktop/ClientDesktop"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

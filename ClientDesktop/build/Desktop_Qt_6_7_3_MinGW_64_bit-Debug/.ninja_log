@@ -1,0 +1,16 @@
+# ninja log v6
+2	702	7539624053529512	build.ninja	bcaf444682a2f34c
+3	1355	7539624066224101	ClientDesktop_autogen/timestamp	af556b9c43c63f2e
+3	1355	7539624066224101	ClientDesktop_autogen/mocs_compilation.cpp	af556b9c43c63f2e
+3	1355	7539624066224101	D:/RemoteDesktop/ClientDesktop/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/ClientDesktop_autogen/timestamp	af556b9c43c63f2e
+3	1355	7539624066224101	D:/RemoteDesktop/ClientDesktop/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/ClientDesktop_autogen/mocs_compilation.cpp	af556b9c43c63f2e
+1358	4198	7539624067625365	CMakeFiles/ClientDesktop.dir/ClientDesktop_autogen/mocs_compilation.cpp.obj	ca13ddd9a149a7f7
+1474	4595	7539624068776415	CMakeFiles/ClientDesktop.dir/main.cpp.obj	47847b03c9dc9464
+1594	4985	7539624069987519	CMakeFiles/ClientDesktop.dir/mainwindow.cpp.obj	b1ce7f12bae0c6f2
+12	404	7539624756275854	ClientDesktop_autogen/timestamp	af556b9c43c63f2e
+12	404	7539624756275854	ClientDesktop_autogen/mocs_compilation.cpp	af556b9c43c63f2e
+12	404	7539624756275854	D:/RemoteDesktop/ClientDesktop/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/ClientDesktop_autogen/timestamp	af556b9c43c63f2e
+12	404	7539624756275854	D:/RemoteDesktop/ClientDesktop/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/ClientDesktop_autogen/mocs_compilation.cpp	af556b9c43c63f2e
+405	2387	7539624760198203	CMakeFiles/ClientDesktop.dir/main.cpp.obj	47847b03c9dc9464
+473	3091	7539624760878831	CMakeFiles/ClientDesktop.dir/mainwindow.cpp.obj	b1ce7f12bae0c6f2
+3091	3869	7539624787061579	ClientDesktop.exe	4c94f67c03c46790
