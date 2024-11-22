@@ -1,0 +1,12 @@
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qmake.cache
+*.moc
+*.obj
+*.o
+*.a
+*.la
+*.lo
+*.dll
+*.exe

@@ -1,0 +1,19 @@
+# ninja log v6
+3	2094	7539615804384413	AndoridClient_autogen/timestamp	2e0f0bb982643019
+3	2094	7539615804384413	AndoridClient_autogen/mocs_compilation.cpp	2e0f0bb982643019
+3	2094	7539615804384413	C:/Users/mmaks/Documents/AndoridClient/build/Android_Qt_6_7_3_Clang_arm64_v8a-Debug/AndoridClient_autogen/timestamp	2e0f0bb982643019
+3	2094	7539615804384413	C:/Users/mmaks/Documents/AndoridClient/build/Android_Qt_6_7_3_Clang_arm64_v8a-Debug/AndoridClient_autogen/mocs_compilation.cpp	2e0f0bb982643019
+2100	4436	7539615805895784	CMakeFiles/AndoridClient.dir/AndoridClient_autogen/mocs_compilation.cpp.o	c3d13ccea8e71ea4
+2840	5388	7539615813285732	CMakeFiles/AndoridClient.dir/main.cpp.o	4be56421a120d79a
+3606	6426	7539615820958756	CMakeFiles/AndoridClient.dir/mainwindow.cpp.o	9cef6bba4de5e341
+6426	8079	7539615849161830	libAndoridClient_arm64-v8a.so	b22e8ef99e99f9f7
+8079	8229	7539615865679505	CMakeFiles/AndoridClient_prepare_apk_dir	cc6183431e1821ae
+8079	8229	7539615865679505	C:/Users/mmaks/Documents/AndoridClient/build/Android_Qt_6_7_3_Clang_arm64_v8a-Debug/CMakeFiles/AndoridClient_prepare_apk_dir	cc6183431e1821ae
+16	509	7539619400643082	AndoridClient_autogen/timestamp	2e0f0bb982643019
+16	509	7539619400643082	AndoridClient_autogen/mocs_compilation.cpp	2e0f0bb982643019
+16	509	7539619400643082	C:/Users/mmaks/Documents/AndoridClient/build/Android_Qt_6_7_3_Clang_arm64_v8a-Debug/AndoridClient_autogen/timestamp	2e0f0bb982643019
+16	509	7539619400643082	C:/Users/mmaks/Documents/AndoridClient/build/Android_Qt_6_7_3_Clang_arm64_v8a-Debug/AndoridClient_autogen/mocs_compilation.cpp	2e0f0bb982643019
+510	3169	7539619405587583	CMakeFiles/AndoridClient.dir/mainwindow.cpp.o	9cef6bba4de5e341
+3169	4936	7539619432173037	libAndoridClient_arm64-v8a.so	b22e8ef99e99f9f7
+4936	5091	7539619449842532	CMakeFiles/AndoridClient_prepare_apk_dir	cc6183431e1821ae
+4936	5091	7539619449842532	C:/Users/mmaks/Documents/AndoridClient/build/Android_Qt_6_7_3_Clang_arm64_v8a-Debug/CMakeFiles/AndoridClient_prepare_apk_dir	cc6183431e1821ae

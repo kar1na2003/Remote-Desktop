@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0af6ea2c79d2b7b0eed8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AndoridClient",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AndoridClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AndoridClient-Debug-4a94941b65f18048779e.json",
+					"name" : "AndoridClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AndoridClient_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AndoridClient_autogen-Debug-174981b93819a3c8dab8.json",
+					"name" : "AndoridClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AndoridClient_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AndoridClient_autogen_timestamp_deps-Debug-d7db871ddbecb94d470d.json",
+					"name" : "AndoridClient_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AndoridClient_make_aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AndoridClient_make_aab-Debug-acc32106aa4f50a336b4.json",
+					"name" : "AndoridClient_make_aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AndoridClient_make_apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AndoridClient_make_apk-Debug-454a4e1ae67363264919.json",
+					"name" : "AndoridClient_make_apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AndoridClient_prepare_apk_dir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AndoridClient_prepare_apk_dir-Debug-b9ca2ee0616f74b963a5.json",
+					"name" : "AndoridClient_prepare_apk_dir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_qt_internal_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_qt_internal_apk_dependencies-Debug-1dff63abb6c356a02ab6.json",
+					"name" : "_qt_internal_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aab-Debug-f8452f9df43ab4105dc7.json",
+					"name" : "aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk-Debug-211b809f04da130095e2.json",
+					"name" : "apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk_all-Debug-e2196f9907c4ac7316f5.json",
+					"name" : "apk_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_internal_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_internal_plugins-Debug-a387e3314a6ba9ec93a1.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mmaks/Documents/AndoridClient/build/Android_Qt_6_7_3_Clang_arm64_v8a-Debug",
+		"source" : "C:/Users/mmaks/Documents/AndoridClient"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

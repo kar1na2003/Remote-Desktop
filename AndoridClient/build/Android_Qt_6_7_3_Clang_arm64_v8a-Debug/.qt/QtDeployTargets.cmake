@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_AndoridClient_FILE C:/Users/mmaks/Documents/AndoridClient/build/Android_Qt_6_7_3_Clang_arm64_v8a-Debug/libAndoridClient_arm64-v8a.so)
+set(__QT_DEPLOY_TARGET_AndoridClient_TYPE MODULE_LIBRARY)
